@@ -1624,7 +1624,7 @@ body {
   text-align: left;
 }
 .cid-rj1LiPliY5 P {
-  color: #f7ed4a;
+  color: #ffffff;
   text-align: left;
 }
 .cid-rj1LiPliY5 B {
@@ -2040,6 +2040,10 @@ body {
   flex-shrink: 0;
   -webkit-flex-shrink: 0;
 }
+.cid-rj2PWlDtLc .mbr-iconfont {
+  font-size: 80px;
+  color: #149dcc;
+}
 @media (min-width: 992px) {
   .cid-rj2PWlDtLc .cards-block {
     border-top: 2px solid #efefef;
@@ -2099,6 +2103,13 @@ body {
 .cid-rj2PWlDtLc .media-container-row {
   -webkit-flex-direction: row-reverse;
   flex-direction: row-reverse;
+}
+.cid-rj2PWlDtLc .count {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rj2PWlDtLc I {
+  color: #232323;
 }
 .cid-rj2U9PVc5m {
   background-image: url("../../../assets/images/background4.jpg");
